@@ -1,7 +1,7 @@
 ---
 title: Practical Machine Learning peer graded Assignment: Prediction Assignment
-author: "Bhavish Mahadev"
-date: "October 8, 2019"
+author: "Palash Bhaumik"
+date: "October 12, 2019"
 output: 
   html_document:
     toc: true
